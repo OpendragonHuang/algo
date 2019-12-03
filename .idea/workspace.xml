@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84c9a075-a1df-4ddb-abd1-e5a4af796d44" name="Default Changelist" comment="" />
+    <list default="true" id="84c9a075-a1df-4ddb-abd1-e5a4af796d44" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/codefreak/algo/sort/SortUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/codefreak/algo/sort/SortUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cn/codefreak/algo/sort/SortUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/codefreak/algo/sort/SortUtilsTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -31,12 +39,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1UQG9ItenEd7om8SZsIZq3kWOtg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -75,34 +87,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575281252365</updated>
-      <workItem from="1575281258716" duration="3763000" />
+      <workItem from="1575281258716" duration="4110000" />
+      <workItem from="1575371091810" duration="4287000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="181" key="GridCell.Tab.0.bottom" timestamp="1575281262919">
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom" timestamp="1575285377540">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575281262919" />
-    <state width="1493" height="181" key="GridCell.Tab.0.center" timestamp="1575281262919">
+    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575285377540" />
+    <state width="1493" height="181" key="GridCell.Tab.0.center" timestamp="1575285377540">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575281262919" />
-    <state width="1493" height="181" key="GridCell.Tab.0.left" timestamp="1575281262919">
+    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575285377540" />
+    <state width="1493" height="181" key="GridCell.Tab.0.left" timestamp="1575285377539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575281262919" />
-    <state width="1493" height="181" key="GridCell.Tab.0.right" timestamp="1575281262919">
+    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575285377539" />
+    <state width="1493" height="181" key="GridCell.Tab.0.right" timestamp="1575285377540">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575281262919" />
-    <state x="540" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575284833853">
+    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575285377540" />
+    <state x="490" y="154" width="540" height="540" key="StructurePopup" timestamp="1575371162641">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="540" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1575284833853" />
+    <state x="490" y="154" width="540" height="540" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1575371162641" />
+    <state x="430" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1575371091785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1575371091785" />
+    <state x="540" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575374294243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="87" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1575374294243" />
     <state x="499" y="154" key="extract.method.dialog" timestamp="1575282343277">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -111,9 +135,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1575282971316" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1575281695705">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1575373344418">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1575281695705" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1575373344418" />
   </component>
 </project>
